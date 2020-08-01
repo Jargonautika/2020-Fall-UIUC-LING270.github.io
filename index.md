@@ -95,21 +95,25 @@ All work submitted for this class must be solely your own. Violations of Academi
 
 Grades will be assessed on a 10-point fixed letter grade system with no rounding. [Grading on a curve](http://en.wikipedia.org/wiki/Grading_on_a_curve) will **not** be used. In the table below, square brackets and parentheses are used to indicate [inclusive and exclusive endpoints](https://en.wikipedia.org/wiki/Interval_(mathematics)#Including_or_excluding_endpoints), respectively.
 
-| Letter grade | Percentage range |
-|:------------:|:----------------:|
-|      A+      |     [97-100]     |
-|      A       |     [93-97)      |
-|      A-      |     [90-93)      |
-|      B+      |     [87-90)      |
-|      B       |     [83-87)      |
-|      B-      |     [80-83)      |
-|      C+      |     [77-80)      |
-|      C       |     [73-77)      |
-|      C-      |     [70-73)      |
-|      D+      |     [67-70)      |
-|      D       |     [63-67)      |
-|      D-      |     [60-63)      |
-|      F       |     [0-60)       |
+<table border="1">
+<tr>
+<th>Letter grade</th>
+<th>Percentage range</th>
+</tr>
+<tr><td style="text-align:center">A+</td><td style="text-align:center">[97-100]</td></tr>
+<tr><td style="text-align:center">A&nbsp;&nbsp;</td><td style="text-align:center">[93-97)</td></tr>
+<tr><td style="text-align:center">A-&nbsp;</td><td style="text-align:center">[90-93)</td></tr>
+<tr><td style="text-align:center">B+</td><td style="text-align:center">[87-90)</td></tr>
+<tr><td style="text-align:center">B&nbsp;&nbsp;</td><td style="text-align:center">[83-87)</td></tr>
+<tr><td style="text-align:center">B-&nbsp;</td><td style="text-align:center">[80-83)</td></tr>
+<tr><td style="text-align:center">C+</td><td style="text-align:center">[77-80)</td></tr>
+<tr><td style="text-align:center">C&nbsp;&nbsp;</td><td style="text-align:center">[73-77)</td></tr>
+<tr><td style="text-align:center">C-&nbsp;</td><td style="text-align:center">[70-73)</td></tr>
+<tr><td style="text-align:center">D+</td><td style="text-align:center">[67-70)</td></tr>
+<tr><td style="text-align:center">D&nbsp;&nbsp;</td><td style="text-align:center">[63-67)</td></tr>
+<tr><td style="text-align:center">D-&nbsp;</td><td style="text-align:center">[60-63)</td></tr>
+<tr><td style="text-align:center">F&nbsp;&nbsp;</td><td style="text-align:center">[0-60)</td></tr>
+</table>
 
 #### Readings and videos
 
@@ -127,7 +131,7 @@ Students who do so are expected to attain the learning goals and outcomes.
 
 #### Disabilities
 
-To obtain disability-related academic adjustments and/or auxiliary aids, students with disabilities must contact the course instructor and the Disability Resources and Educational Services (DRES) as soon as possible. To contact DRES, you may visit 1207 S. Oak St., Champaign, call 333-4603, e-mail disability@illinois.edu or go to the DRES website.
+To obtain disability-related academic adjustments and/or auxiliary aids, students with disabilities must contact the course instructor and the Disability Resources and Educational Services (DRES) as soon as possible. To contact DRES, you may visit 1207 S. Oak St., Champaign, call +1-217-333-4603, e-mail disability@illinois.edu or go to the [DRES website](https://www.disability.illinois.edu).
 
 If specific accommodations will be requested for this course, the student is asked to inform the course instructor as soon as possible, ideally within the first week of class or as soon as a DRES letter has been prepared, by following these steps: Students are asked to use the following steps:
 * Post a private message addressed to both the instructor and the TA on the course forum on Campuswire.</li>
