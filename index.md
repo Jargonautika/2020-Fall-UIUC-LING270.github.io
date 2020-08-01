@@ -84,6 +84,13 @@ Each module will include:
 
 ## Course Policies
 
+#### Academic Integrity
+
+This course follows the [University of Illinois Student Code regarding Academic Integrity](https://studentcode.illinois.edu/article1/part4/1-401). The College of Liberal Arts and Sciences also has [an excellent web page on the topic](http://www.las.illinois.edu/students/integrity). You are required to thoroughly read these resources no later than the Wednesday of the first week of class, and to thoroughly understand your responsibilities with regard to Academic Integrity. 
+
+All work submitted for this class must be solely your own. Violations of Academic Integrity include, but are not limited to, copying, cheating, and unapproved collaboration. Violations will not be tolerated.
+
+
 #### Grading
 
 Grades will be assessed on a 10-point fixed letter grade system with no rounding. [Grading on a curve](http://en.wikipedia.org/wiki/Grading_on_a_curve) will **not** be used. In the table below, square brackets and parentheses are used to indicate [inclusive and exclusive endpoints](https://en.wikipedia.org/wiki/Interval_(mathematics)#Including_or_excluding_endpoints), respectively.
@@ -104,4 +111,27 @@ Grades will be assessed on a 10-point fixed letter grade system with no rounding
 |      D-      |     [60-63)      |
 |      F       |     [0-60)       |
 
+#### Readings and videos
 
+Students are expected to regularly review the schedule of assigned readings and video lectures. The schedule is subject to change.
+
+Students are expected to and required to complete all assigned readings and video lectures prior to the class for which they are assigned.
+
+Students are expected to read and participate in Q&As and class discussions on the course Campuswire site.
+
+#### Learning Goals & Outcomes
+
+Students are expected attentively read assigned readings, attentively view assigned videos, and complete all assigned work prior to the specified deadlines.
+
+Students who do so are expected to attain the learning goals and outcomes.
+
+#### Disabilities
+
+To obtain disability-related academic adjustments and/or auxiliary aids, students with disabilities must contact the course instructor and the Disability Resources and Educational Services (DRES) as soon as possible. To contact DRES, you may visit 1207 S. Oak St., Champaign, call 333-4603, e-mail disability@illinois.edu or go to the DRES website.
+
+If specific accommodations will be requested for this course, the student is asked to inform the course instructor as soon as possible, ideally within the first week of class or as soon as a DRES letter has been prepared, by following these steps: Students are asked to use the following steps:
+* Post a private message addressed to both the instructor and the TA on the course forum on Campuswire.</li>
+* Use the subject heading **DRES letter**</li>
+* Use the **dres** topic tag</li>
+* In the body of the post, the student should attach a PDF of their DRES letter</li>
+* In the body of the post, the student should list which specific accommodations mentioned in the DRES letter are being requested for this class
