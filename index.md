@@ -4,7 +4,7 @@ title: Course Overview and Syllabus
 active_tab: main_page 
 ---
 
-# Course Overview
+## Course Overview
 
 This course deals with the interrelated nature of language, technology, and society. We discuss the invention of writing as a language technology and how that gave rise to a series of cultural revolutions. We tackle the nature of society and what it means to be a social group, a social world. We will then move on to discuss language technologies such as the telegraph and discuss their impact on history. Finally, we will utilize the internet as a means by which we can re-evaluate our language and its impact on society on a global scale.
 
@@ -22,7 +22,7 @@ This course deals with the interrelated nature of language, technology, and soci
 * Office hours will be held via Zoom; times will be announced near the end of the first week of class
 
 
-# Course Objectives
+## Course Objectives
 
 The main goal of this course is to excite an interest for and passion in language technologies in the attentive student. 
 
@@ -36,7 +36,7 @@ By the end of this course, you will be able to:
 **Please note: __this course is not a technical class__**. You will not be taught how to develop a natural language processing (NLP) system, or an AI system. However, we will be discussing the current state of research NLP and AI in broad strokes (among many other language technologies). If you are interested in these areas, the aim of this course is to give you a high-level survey of these fields and discuss the social significance of language technologies.
 
 
-# Course Materials
+## Course Materials
 
 #### Required Textbook
 
@@ -55,7 +55,7 @@ Interested students are encouraged to enrich the content from the required readi
 * **Language and the Internet** by David Crystal. 2001 Cambridge University Press.
 
 
-# Course Organization
+## Course Organization
 
 This course is organized into 9 content modules. 
 
@@ -80,3 +80,28 @@ Each module will include:
 7. A Brief Introduction to Artificial Intelligence
 8. Computational Linguistics and Natural Language Processing
 9. Language and the Internet
+
+
+## Course Policies
+
+#### Grading
+
+Grades will be assessed on a 10-point fixed letter grade system with no rounding. [Grading on a curve](http://en.wikipedia.org/wiki/Grading_on_a_curve) will **not** be used. In the table below, square brackets and parentheses are used to indicate [inclusive and exclusive endpoints](https://en.wikipedia.org/wiki/Interval_(mathematics)#Including_or_excluding_endpoints), respectively.
+
+| Letter grade | Percentage range |
+|:------------:|:----------------:|
+|      A+      |     [97-100]     |
+|      A       |     [93-97)      |
+|      A-      |     [90-93)      |
+|      B+      |     [87-90)      |
+|      B       |     [83-87)      |
+|      B-      |     [80-83)      |
+|      C+      |     [77-80)      |
+|      C       |     [73-77)      |
+|      C-      |     [70-73)      |
+|      D+      |     [67-70)      |
+|      D       |     [63-67)      |
+|      D-      |     [60-63)      |
+|      F       |     [0-60)       |
+
+
