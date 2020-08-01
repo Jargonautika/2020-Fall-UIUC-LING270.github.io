@@ -90,6 +90,12 @@ This course follows the [University of Illinois Student Code regarding Academic 
 
 All work submitted for this class must be solely your own. Violations of Academic Integrity include, but are not limited to, copying, cheating, and unapproved collaboration. Violations will not be tolerated.
 
+#### Communications
+
+Course announcements, assignments, and due dates will all be communicated to students as announcements on the [the course forum on Campuswire](https://campuswire.com/c/G954C73B2), which should be the **primary mechanism for communication** in this course. Students may post questions privately so that only the instructor can see the question. Other questionsmay be viewed by classmates, so that classmates can provide a peer response in addition to that provided by the instructor and TAs. Questions may also be asked anonymously, so that neither the instructor nor classmates will see the poster's name.
+
+Office hours and one-on-one meetings with students will take place [over Zoom](https://illinois.zoom.us).
+
 
 #### Grading
 
