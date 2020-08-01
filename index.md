@@ -131,7 +131,7 @@ Students who do so are expected to attain the learning goals and outcomes.
 
 #### Disabilities
 
-To obtain disability-related academic adjustments and/or auxiliary aids, students with disabilities must contact the course instructor and the Disability Resources and Educational Services (DRES) as soon as possible. To contact DRES, you may visit 1207 S. Oak St., Champaign, call +1-217-333-4603, e-mail disability@illinois.edu or go to the [DRES website](https://www.disability.illinois.edu).
+To obtain disability-related academic adjustments and/or auxiliary aids, students with disabilities must contact the course instructor and the Disability Resources and Educational Services (DRES) as soon as possible. To contact DRES, you may visit 1207 S. Oak St., Champaign, call +1-217-333-4603, e-mail [disability@illinois.edu](mailto:disability@illinois.edu) or go to the [DRES website](https://www.disability.illinois.edu).
 
 If specific accommodations will be requested for this course, the student is asked to inform the course instructor as soon as possible, ideally within the first week of class or as soon as a DRES letter has been prepared, by following these steps: Students are asked to use the following steps:
 * Post a private message addressed to both the instructor and the TA on [the course forum on Campuswire](https://campuswire.com/p/G954C73B2)
