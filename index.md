@@ -87,8 +87,8 @@ Grades will be assessed on a 10-point fixed letter grade system with no rounding
 
 <table border="1">
 <tr>
-<th>Letter grade</th>
-<th>Percentage range</th>
+<th style="text-align:center">Letter grade</th>
+<th style="text-align:center">Percentage range</th>
 </tr>
 <tr><td style="text-align:center">A+</td><td style="text-align:center">[97-100]</td></tr>
 <tr><td style="text-align:center">A&nbsp;&nbsp;</td><td style="text-align:center">[93-97)</td></tr>
