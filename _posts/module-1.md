@@ -1,0 +1,7 @@
+---
+layout: post
+title: Module 1
+description: Something
+---
+
+Foo bar
