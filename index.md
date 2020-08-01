@@ -19,7 +19,7 @@ This course deals with the interrelated nature of language, technology, and soci
 * [Hayley Park](https://linguistics.illinois.edu/directory/profile/hpark129)
 
 #### Office Hours
-* Office hours will be held via Zoom; times will be announced near the end of the first week of class
+* Office hours will be held [via Zoom](https://illinois.zoom.us); times will be announced near the end of the first week of class
 
 
 ## Course Objectives
