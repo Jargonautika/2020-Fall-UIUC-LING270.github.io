@@ -26,7 +26,7 @@ This course deals with the interrelated nature of language, technology, and soci
 
 The main goal of this course is to excite an interest for and passion in language technologies in the attentive student. 
 
-While many of us know a variety of things about some aspects of spoken language technologies like Siri or Alexa, this course should expound upon what you already know and garner a greater appreciation for the amazing resources available to this generation. 
+While many of us know a variety of things about some aspects of language technologies like Siri or Alexa, this course should expound upon what you already know and garner a greater appreciation for the amazing resources available to this generation. 
 
 By the end of this course, you will be able to:
 * Discuss logically the origins of written systems of disparate types and analyze the efficacy of automated transcription, transliteration, and translation between them.
