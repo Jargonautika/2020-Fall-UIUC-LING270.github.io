@@ -33,7 +33,7 @@ By the end of this course, you will be able to:
 * Posit theoretical advancements to current language technologies that augment the social fabric of a given culture, creed, etc.
 * Recognize the difficulty of creating a new technology to combat a challenge and overcome it in some significant way.
 	 
-**Please note: __this course is not a technical class__**. You will not be taught how to develop a natural language processing (NLP) system, or an AI system. However, we will be discussing the current state of research NLP and AI in broad strokes (among many other language technologies). If you are interested in these areas, the aim of this course is to give you a high-level survey of these fields and discuss the social significance of language technologies.
+**Please note: _this course is not a technical class_**. You will not be taught how to develop a natural language processing (NLP) system, or an AI system. However, we will be discussing the current state of research NLP and AI in broad strokes (among many other language technologies). If you are interested in these areas, the aim of this course is to give you a high-level survey of these fields and discuss the social significance of language technologies.
 
 
 ## Course Materials
