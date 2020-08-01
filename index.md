@@ -93,6 +93,15 @@ All work submitted for this class must be solely your own. Violations of Academi
 
 #### Grading
 
+Students will be assessed on the extent to which they have attained the learning goals & outcomes through a combination of  practical exercises, homework assignments, projects, quizzes and exams.
+
+* **PrairieLearn Quizzes**: 25%
+* **Homework**: 30%
+* **Reading log**: 5%
+* **Mid-term Exam**: 15%
+* **Final Exam or Project**: 25%
+
+
 Grades will be assessed on a 10-point fixed letter grade system with no rounding. [Grading on a curve](http://en.wikipedia.org/wiki/Grading_on_a_curve) will **not** be used. In the table below, square brackets and parentheses are used to indicate [inclusive and exclusive endpoints](https://en.wikipedia.org/wiki/Interval_(mathematics)#Including_or_excluding_endpoints), respectively.
 
 <table border="1">
@@ -115,13 +124,20 @@ Grades will be assessed on a 10-point fixed letter grade system with no rounding
 <tr><td style="text-align:center">F&nbsp;&nbsp;</td><td style="text-align:center">[0-60)</td></tr>
 </table>
 
+#### Late work
+
+Assignment submissions will be penalized by 10 percentage points each day past the deadline for four days past the deadline. Assignments submitted five or more days past the deadline will not be given credit. If there is an unforeseeable emergency which prevents you from submitting an assignment on time, please contact the instructor as soon as you can.
+
+For some or all homework assignments, a solution may be presented to the class after the original homework deadline. Under no circumstances will work be accepted after a solution has been presented to the class. 
+
+
 #### Readings and videos
 
 Students are expected to regularly review the schedule of assigned readings and video lectures. The schedule is subject to change.
 
 Students are expected to and required to complete all assigned readings and video lectures prior to the class for which they are assigned.
 
-Students are expected to read and participate in Q&As and class discussions on the course Campuswire site.
+Students are expected to read and participate in Q&As and class discussions on the [the course forum on Campuswire](https://campuswire.com/p/G954C73B2)
 
 #### Learning Goals & Outcomes
 
@@ -133,7 +149,7 @@ Students who do so are expected to attain the learning goals and outcomes.
 
 To obtain disability-related academic adjustments and/or auxiliary aids, students with disabilities must contact the course instructor and the Disability Resources and Educational Services (DRES) as soon as possible. To contact DRES, you may visit 1207 S. Oak St., Champaign, call +1-217-333-4603, e-mail [disability@illinois.edu](mailto:disability@illinois.edu) or go to the [DRES website](https://www.disability.illinois.edu).
 
-If specific accommodations will be requested for this course, the student is asked to inform the course instructor as soon as possible, ideally within the first week of class or as soon as a DRES letter has been prepared, by following these steps: Students are asked to use the following steps:
+If specific accommodations will be requested for this course, the student is asked to inform the course instructor as soon as possible, ideally within the first week of class or as soon as a DRES letter has been prepared, by following these steps:
 * Post a private message addressed to both the instructor and the TA on [the course forum on Campuswire](https://campuswire.com/p/G954C73B2)
 * Use the subject heading **DRES letter**
 * Use the **dres** topic tag
