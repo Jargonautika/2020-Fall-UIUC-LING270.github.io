@@ -1,5 +1,5 @@
 ---
-layout: blog
-title: Notes
+layout: modules
+title: Modules
 ---
 

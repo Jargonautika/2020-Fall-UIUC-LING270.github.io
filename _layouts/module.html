@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<article role="article">
+  <h1>{{ page.title }}:  {{ page.description }}</h1>
+   <time class="date" datetime="{{ page.start | date_to_xmlschema }}">{{ page.start | date: "%a %d %b %Y" }} — {{ page.end   | date: "%a %d %b %Y" }}</time>
+  {{ content }}
+</article>

@@ -1,10 +1,7 @@
-site: Ultra
-url: https://example.com
-title: Ultra
-description: Ultra - Super fast Jekyll theme, weighs under 2kb
-twitter:
-  username: yourusername
-  card: summary
+site: "LING 270"
+url: "https://2020-fall-uiuc-ling270.github.io"
+title: "LING 270"
+description: "Language, Technology, and Society"
 
 permalink: pretty
 

@@ -1,0 +1,15 @@
+---
+layout: default
+title: Notes
+---
+
+{% for post in site.posts reversed %}
+<article role="article">
+  <h2><a href="{{ site.baseurl }}{{ post.url }}">
+    {{ post.title }}
+  </a></h2>
+  <p>{{ post.summary }}</p>
+    <time class="date" datetime="{{ post.start | date_to_xmlschema }}">{{ post.start | date: "%a %d %b %Y" }}</time> — <time class="date" datetime="{{ post.end   | date_to_xmlschema }}">{{ post.end   | date: "%a %d %b %Y" }}</time>
+</article>
+{% endfor %}
+

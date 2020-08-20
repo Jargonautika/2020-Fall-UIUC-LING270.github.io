@@ -1,0 +1,26 @@
+-
+  module: "02"
+  week: "03"
+  date: 2020-09-11
+  title: "How Writing Represents Language"
+  reading:
+    -
+     author: Sproat
+     title: "Chapter 3 - 3.2"
+     pages: "30-52"
+     length: 
+       value: 21
+       unit: "pages"
+-
+  module: "02"
+  week: "04"
+  date: 2020-09-18
+  title: "How Writing Represents Language"
+  reading:
+    -
+     author: Sproat
+     title: "Section 3.3 - 3.5"
+     pages: "52-76"
+     length: 
+       value: 25
+       unit: "pages"
