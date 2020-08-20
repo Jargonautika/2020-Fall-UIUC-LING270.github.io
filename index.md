@@ -74,10 +74,10 @@ Each module will include:
 1. Language Technology from the Sumerians to Today
 2. Decipherment of Ancient Scripts
 3. How Different Writing Systems Encode Language
-4. Literacy in Society: How Literati Exclude the Illiterate; The Rise of Literacy
-5. The Invention of Printing
-6. Precursors to Language Computing: Swift to the 20th Century
-7. A Brief Introduction to Artificial Intelligence
+4. The Invention of Printing
+5. Literacy in Society: How Literati Exclude the Illiterate; The Rise of Literacy
+6. A Brief Introduction to Artificial Intelligence
+7. Precursors to Language Computing: Swift to the 20th Century
 8. Computational Linguistics and Natural Language Processing
 9. Language and the Internet
 
@@ -88,11 +88,13 @@ Each module will include:
 
 This course follows the [University of Illinois Student Code regarding Academic Integrity](https://studentcode.illinois.edu/article1/part4/1-401). The College of Liberal Arts and Sciences also has [an excellent web page on the topic](http://www.las.illinois.edu/students/integrity). You are required to thoroughly read these resources no later than the Wednesday of the first week of class, and to thoroughly understand your responsibilities with regard to Academic Integrity. 
 
-All work submitted for this class must be solely your own. Violations of Academic Integrity include, but are not limited to, copying, cheating, and unapproved collaboration. Violations will not be tolerated.
+All work submitted for this class must be solely your own. Violations of Academic Integrity include, but are not limited to, copying, cheating, and unapproved collaboration. Violations will not be tolerated and can result in a failing grade. Ignorance is not an excuse.
+
+Do not hesitate to ask the instructor(s) if you are ever in doubt about what constitutes plagiarism, cheating, or any other breach of academic integrity.
 
 #### Communications
 
-Course announcements, assignments, and due dates will all be communicated to students as announcements on the [the course forum on Campuswire](https://campuswire.com/c/G954C73B2), which should be the **primary mechanism for communication** in this course. Students may post questions privately so that only the instructor can see the question. Other questionsmay be viewed by classmates, so that classmates can provide a peer response in addition to that provided by the instructor and TAs. Questions may also be asked anonymously, so that neither the instructor nor classmates will see the poster's name.
+Course announcements, assignments, and due dates will all be communicated to students as announcements on the [the course forum on Campuswire](https://campuswire.com/c/G954C73B2), which should be the **primary mechanism for communication** in this course. Students may post questions privately so that only the instructor can see the question. Other questions may be viewed by classmates, so that classmates can provide a peer response in addition to that provided by the instructor and TAs. Questions may also be asked anonymously, so that neither the instructor nor classmates will see the poster's name.
 
 Office hours and one-on-one meetings with students will take place [over Zoom](https://illinois.zoom.us).
 
@@ -101,7 +103,7 @@ Office hours and one-on-one meetings with students will take place [over Zoom](h
 
 Students will be assessed on the extent to which they have attained the learning goals & outcomes through a combination of  practical exercises, homework assignments, projects, quizzes and exams.
 
-* **PrairieLearn Quizzes**: 25%
+* **Quizzes**: 25%
 * **Homework**: 30%
 * **Reading log**: 5%
 * **Mid-term Exam**: 15%
@@ -161,3 +163,14 @@ If specific accommodations will be requested for this course, the student is ask
 * Use the **dres** topic tag
 * In the body of the post, the student should attach a PDF of their DRES letter
 * In the body of the post, the student should list which specific accommodations mentioned in the DRES letter are being requested for this class
+
+
+#### Religious Observances
+
+Illinois law requires the University to reasonably accommodate its students' religious beliefs, observances, and practices in regard to admissions, class attendance, and the scheduling of examinations and work requirements. You should examine this syllabus at the beginning of the semester for potential conflicts between course deadlines and any of your religious observances. If a conflict exists, you should notify your instructor of the conflict and follow the procedures [described here](https://odos.illinois.edu/community-of-care/resources/students/religious-observances) to request appropriate accommodations. This should be done in the first two weeks of classes.
+
+#### Sexual Misconduct Reporting Obligation
+
+The University of Illinois is committed to combating sexual misconduct. Faculty and staff members are required to report any instances of sexual misconduct to the University’s Title IX Office. In turn, an individual with the Title IX Office will provide information about rights and options, including accommodations, support services, the campus disciplinary process, and law enforcement options.
+
+A list of the designated University employees who, as counselors, confidential advisors, and medical professionals, do not have this reporting responsibility and can maintain confidentiality, can be found [here](wecare.illinois.edu/resources/students/#confidential). Other information about resources and reporting is available [here](wecare.illinois.edu).
