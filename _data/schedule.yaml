@@ -1,0 +1,389 @@
+-
+  module: "0"
+  week: "1"
+  date: "2020-08-25 15:00 CDT"
+  title: "Syllabus"
+  reading:
+    -
+     title: "Video playlist"
+     url: "https://www.youtube.com/playlist?list=PLydysiDoFy5XD5s3KogCZyX81etFT8Wp2"
+     length:
+       value: "47"
+       unit: "minutes"
+    -
+     title: "Syllabus"
+     url: ..
+     length:
+       value: 6
+       unit: "pages"
+    -
+     title: "Academic Integrity Overview"
+     url: "https://las.illinois.edu/academics/integrity"
+     length:
+       value: 8
+       unit: "pages"
+    -
+     title: "Statement"
+     url: "https://studentcode.illinois.edu/article1/part4/1-401/"
+     length:
+       value: 1
+       unit: "pages"
+    -
+     title: "Infractions"
+     url: "https://studentcode.illinois.edu/article1/part4/1-402/"
+     length:
+       value: 2
+       unit: "pages"
+    -
+     title: "Procedures"
+     url: "https://studentcode.illinois.edu/article1/part4/1-403/"
+     length:
+       value: 3
+       unit: "pages"
+    -
+     title: "Sanctions"
+     url: "https://studentcode.illinois.edu/article1/part4/1-404/"
+     length:
+       value: 1
+       unit: "pages"
+    -
+     title: "Reporting"
+     url: "https://studentcode.illinois.edu/article1/part4/1-405/"
+     length:
+       value: 1
+       unit: "pages"
+    -
+     title: "Senate"
+     url: "https://studentcode.illinois.edu/article1/part4/1-406/"
+     length:
+       value: 1
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 0"
+-
+  module: "1"
+  week: "1"
+  date: "2020-08-28 15:00 CDT"
+  title: "Language Technology from the Sumerians to Today"
+  reading:
+    -
+     title: "Video playlist"
+     url: "https://www.youtube.com/playlist?list=PLydysiDoFy5UqYCvpluOjkM5o_Smv-z3r"
+     length:
+       value: "133"
+       unit: "minutes"
+    -
+     author: Sproat
+     title: "Chapter 1"
+     pages: "1‑8"
+     length: 
+       value: 8
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 1a"
+-
+  week: "2"
+  date: "2020-09-04 15:00 CDT"
+  reading:
+    -
+     title: "Video playlist"
+     url: "https://www.youtube.com/playlist?list=PLydysiDoFy5WAXhSM2EyLm_qD_0llpXWp"
+     length:
+       value: "180"
+       unit: "minutes"
+    -
+     author: Sproat
+     title: "Chapter 2"
+     pages: "9‑29"
+     length: 
+       value: 21
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 1b"
+-
+  module: "2"
+  week: "3"
+  date: "2020-09-11 15:00 CDT"
+  title: "How Writing Represents Language"
+  reading:
+    -
+     title: "Video playlist"
+     length:
+       value: "180"
+       unit: "minutes"
+    -
+     author: Sproat
+     title: "Chapter 3 - 3.2"
+     pages: "30-52"
+     length: 
+       value: 21
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 2a"
+-
+  week: "4"
+  date: "2020-09-18 15:00 CDT"
+  reading:
+    -
+     title: "Video playlist"
+     length:
+       value: "180"
+       unit: "minutes"
+    -
+     author: Sproat
+     title: "Chapter 3.3 - 3.5"
+     pages: "52-76"
+     length: 
+       value: 25
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 2b"
+-
+  date: "2020-09-18 15:00 CDT"
+  reading:
+    -
+     title: "Homework 1"
+-
+  module: "3"
+  week: "5-6"
+  date: "2020-09-30 15:00 CDT"
+  title: "Decipherment"
+  reading:
+    -
+     title: "Video playlist"
+     length:
+       value: "210"
+       unit: "minutes"
+    -
+     author: Sproat
+     title: "Chapter 4"
+     pages: "77-112"
+     length: 
+       value: 36
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 3"
+-
+  module: "4"
+  week: "6-7"
+  date: "2020-10-07 15:00 CDT"
+  title: "The Invention of Printing"
+  reading:
+    -
+     title: "Video playlist"
+     length:
+       value: "180"
+       unit: "minutes"
+    -
+     author: Wikipedia
+     title: "Printing Press"
+     url: "https://en.wikipedia.org/wiki/Printing_press"
+     length:
+       value: 8
+       unit: "pages"
+    -
+     author: Wikipedia
+     title: "Typeface (Sections 1-5)"
+     url: "https://en.wikipedia.org/wiki/Typeface"
+     length:
+       value: 10
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 4"
+-
+  date: "2020-10-12 15:00 CDT"
+  reading:
+    -
+     title: "Homework 2"
+-
+  module: "5"
+  week: "7-8"
+  date: "2020-10-14 15:00 CDT"
+  title: "Writing, Literacy, & Society"
+  reading:
+    -
+     title: "Video playlist"
+     length:
+       value: "180"
+       unit: "minutes"
+    -
+     author: Sproat
+     title: "Chapter 5"
+     pages: "113-141"
+     length: 
+       value: 29
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 5"
+-
+  date: "2020-10-19 15:00 CDT"
+  module: "1-5"
+  week: "9"
+  reading:
+    -
+     title: "Mid-term Exam"
+-
+  module: "6"
+  week: "9-10"
+  date: "2020-10-27 15:00 CDT"
+  title: "Artificial Intelligence"
+  reading:   
+    -
+     author: Turing
+     title: "Computing Machinery and Intelligence"
+     url: "http://mind.oxfordjournals.org/content/LIX/236/433"
+     pages: "433-460"
+     length: 
+       value: 28
+       unit: "pages"
+    -
+     title: "AI movie:<ul><li>Bicentennial Man, or</li><li>Ex Machina, or</li><li>Her</li></ul>"
+     length:
+       value: "120"
+       unit: "minutes"  
+    -
+     title: "Video playlist"
+     length:
+       value: "90"
+       unit: "minutes"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 6"
+-
+  week: "10"
+  date: "2020-10-30 15:00 CDT"
+  reading:
+    -
+     title: "Homework 3"
+-
+  module: "7"
+  week: "10-11"
+  date: "2020-11-06 15:00 CST"
+  title: "Precursors to Language Computing"
+  reading:
+    -
+     title: "Video playlist"
+     length:
+       value: "210"
+       unit: "minutes"
+    -
+     author: Sproat
+     title: "Chapter 6"
+     pages: "142-187"
+     length: 
+       value: 46
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 7"
+-
+  module: "8"
+  week: "12"
+  date: "2020-11-13 15:00 CST"
+  title: "Modern Language Technology"
+  reading:
+    -
+     title: "Video playlist"
+     length:
+       value: "180"
+       unit: "minutes"
+    -
+     author: Sproat
+     title: "Chapter 7"
+     pages: "188-215"
+     length: 
+       value: 28
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 8a"
+-
+  week: "13"
+  date: "2020-11-20 15:00 CST"
+  reading:
+    -
+     title: "Video playlist"
+     length:
+       value: "180"
+       unit: "minutes"
+    -
+     author: Sproat
+     title: "Chapter 8"
+     pages: "216-241"
+     length: 
+       value: 26
+       unit: "pages"
+    -
+     title: "Quiz 8b"
+    -
+     title: "Reading log"
+-
+  date: "2020-11-20 15:00 CST"
+  reading:
+    -
+     title: "Homework 4"
+-
+  week: "14"
+  title: "<i>Thanksgiving Break</i>"
+-
+  module: "9"
+  week: "15"
+  date: "2020-12-04 15:00 CST"
+  title: "Language and the Internet"
+  reading:
+    -
+     title: "Video playlist"
+     length:
+       value: "180"
+       unit: "minutes"
+    -
+     author: Sproat
+     title: "Chapter 9"
+     pages: "242-255"
+     length: 
+       value: 14
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 9a"
+-
+  module: "9"
+  week: "16"
+  date: "2020-12-09 15:00 CST"
+  reading:
+    -
+     author: Sproat
+     title: "Chapter 10"
+     pages: "256-258"
+     length: 
+       value: 3
+       unit: "pages"
+    -
+     title: "Reading log"
+    -
+     title: "Quiz 9b"
+-
+  date: "2020-12-11 15:00 CDT"
+  reading:
+    -
+     title: "Final project"
