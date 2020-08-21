@@ -43,6 +43,8 @@ Assessments:
 * You will be responsible for completing homework assignments and turning them in electronically (details will be provided with each assignment)
 * You will be responsible for completing a final project and turning it in electronically (details will be provided when assigned)
 
+Quizzes, logs, and exams will be hosted on [PrairieLearn](https://prairielearn.engr.illinois.edu).
+
 
 ## Course Objectives
 
