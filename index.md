@@ -8,7 +8,29 @@ layout: default
 This course deals with the interrelated nature of language, technology, and society. We discuss the invention of writing as a language technology and how that gave rise to a series of cultural revolutions. We tackle the nature of society and what it means to be a social group, a social world. We will then move on to discuss language technologies such as the telegraph and discuss their impact on history. Finally, we will utilize the internet as a means by which we can re-evaluate our language and its impact on society on a global scale.
 
 #### Time and place
+
 * Online asynchronous
+
+This class will be conducted entirely online, in an entirely asynchronous mode. What does that mean?
+
+Readings and videos:
+* You will be responsible for reading about 20 pages per week of assigned readings
+* You will be responsible for watching about 3 hours per week of pre-recorded videos
+
+At any time, you can use [the course forum on Campuswire](https://campuswire.com/p/G954C73B2):
+* to ask the instructor and TAs private questions
+* to ask questions that the instructor, the TAs, and your classmates can see and answer
+
+Follow the forum questions:
+* You are expected to read the questions posted by your classmates and the answers that are posted to those questions. You are responsible for material discussed in the forum, even if it was not covered in the readings or videos.
+
+Assessments:
+* You will be responsible for completing a log (approximately weekly) recording the extent to which you engaged with the readings and videos
+* You will be responsible for completing an online quiz (approximately weekly) testing your understanding of the content from the readings and videos
+* You will be responsible for completing an online mid-term exam testing your understanding of the content from the readings and videos
+* You will be responsible for completing homework assignments and turning them in electronically (details will be provided with each assignment)
+* You will be responsible for completing a final project and turning it in electronically (details will be provided when assigned)
+
 
 #### Instructor
 * [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - One-on-one discussions over available by appointment.
