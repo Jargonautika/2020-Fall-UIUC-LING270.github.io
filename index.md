@@ -33,6 +33,7 @@ At any time, you can use [the course forum on Campuswire](https://campuswire.com
 * to ask questions that the instructor, the TAs, and your classmates can see and answer
 
 Follow the forum questions:
+* I will regularly post updates and announcements on the forum
 * You are expected to read the questions posted by your classmates and the answers that are posted to those questions. You are responsible for material discussed in the forum, even if it was not covered in the readings or videos.
 
 Assessments:
