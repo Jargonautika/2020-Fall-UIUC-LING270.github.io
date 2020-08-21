@@ -128,14 +128,14 @@ Office hours and one-on-one meetings with students will take place [over Zoom](h
 
 Students will be assessed on the extent to which they have attained the learning goals & outcomes through a combination of  practical exercises, homework assignments, projects, quizzes and exams.
 
-* **Quizzes**: 25%
+* **Quizzes**: 30%
 * **Homework 1**: 7.5%
 * **Homework 2**: 7.5%
 * **Homework 3**: 7.5%
 * **Homework 4**: 7.5%
 * **Reading log**: 5%
 * **Mid-term Exam**: 15%
-* **Final Project**: 25%
+* **Final Project**: 20%
 
 
 Grades will be assessed on a 10-point fixed letter grade system with no rounding. [Grading on a curve](http://en.wikipedia.org/wiki/Grading_on_a_curve) will **not** be used. In the table below, square brackets and parentheses are used to indicate [inclusive and exclusive endpoints](https://en.wikipedia.org/wiki/Interval_(mathematics)#Including_or_excluding_endpoints), respectively.
