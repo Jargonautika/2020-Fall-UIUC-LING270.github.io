@@ -65,7 +65,8 @@
        value: 1
        unit: "pages"
     -
-     title: "Reading log"
+     title: "Reading log 0"
+     url: "https://prairielearn.engr.illinois.edu/pl/course_instance/85223/assessment/2304938/"
     -
      title: "Quiz 0b"
      url: "https://prairielearn.engr.illinois.edu/pl/course_instance/85223/assessment_instance/1670192/"
@@ -89,7 +90,8 @@
        value: 8
        unit: "pages"
     -
-     title: "Reading log"
+     title: "Reading log 1a"
+     url: "https://prairielearn.engr.illinois.edu/pl/course_instance/85223/assessment/2304937/"
     -
      title: "Quiz 1a"
 -
@@ -111,6 +113,7 @@
        unit: "pages"
     -
      title: "Reading log"
+     url: "https://prairielearn.engr.illinois.edu/pl/course_instance/85223/assessment/2304939/"
     -
      title: "Quiz 1b"
 -
