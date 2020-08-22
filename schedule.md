@@ -12,11 +12,11 @@ layout: default
 <table class="table table-striped"> 
   <tbody>
     <tr>
-      <th style="text-align: center">Module</th>
-      <th style="text-align: center">Week</th>
-      <th class="col-xs-1">Topic</th>
+      <th class="col-xs-1" style="text-align: center">Module</th>
+      <th class="col-xs-1" style="text-align: center">Week</th>
+      <!--<th class="col-xs-1">Topic</th>-->
       <th class="col-xs-5">Readings, Videos, Quizzes, Assignments, Logs, & Exams</th>
-      <th class="col-xs-2">Complete prior to</th>
+      <th class="col-xs-3">Complete prior to</th>
       <th class="col-xs-2">Totals (approximate)</th>
     </tr>
     {% for lecture in site.data.schedule %}
@@ -27,10 +27,12 @@ layout: default
     <tr>
       <td style="text-align: center">{% if lecture.module %}Module {{ lecture.module }}{% endif %}</td>
       <td style="text-align: center">{% if lecture.week %}Week {{ lecture.week }}{% endif %}</td>
+      <!--
       <td>
         {% if lecture.slides %}<a href="{{ lecture.slides }}">{{ lecture.title }}</a>
         {% elsif lecture.title %}{{ lecture.title }}{% endif %}
       </td>
+      -->
       <td>
         {% if lecture.reading %}
           <ul>
