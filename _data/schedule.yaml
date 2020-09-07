@@ -125,10 +125,13 @@
   title: "How Writing Represents Language"
   reading:
     -
-     title: "Video playlist"
+     title: "Video playlist (part 1)"
+     url: "https://www.youtube.com/playlist?list=PLydysiDoFy5UEbZjnqtxRzOpKzWkCsYWM"
      length:
-       value: "180"
+       value: "85"
        unit: "minutes"
+    -
+     title: "Video playlist (part 2 will be posted on Wed Sep 8) "
     -
      author: Sproat
      title: "Chapter 3 - 3.2"
@@ -137,7 +140,7 @@
        value: 21
        unit: "pages"
     -
-     title: "Reading log 2a"
+     title: "Reading log 2a (will be posted on Wed Sep 8))"
     -
      title: "Quiz 2a"
      url: "https://prairielearn.engr.illinois.edu"
