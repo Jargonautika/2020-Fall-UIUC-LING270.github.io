@@ -139,11 +139,6 @@
      length: 
        value: 21
        unit: "pages"
-    -
-     title: "Reading log 2a (will be posted on Wed Sep 8))"
-    -
-     title: "Quiz 2a"
-     url: "https://prairielearn.engr.illinois.edu"
 -
   week: "4"
   date: "2020-09-18 15:00 CDT"
@@ -161,7 +156,12 @@
        value: 25
        unit: "pages"
     -
-     title: "Reading log 2b"
+     title: "Reading log 2a (will be posted on Wed Sep 8)"
+    -
+     title: "Reading log 2b (will be posted on Wed Sep 8)"
+    -
+     title: "Quiz 2a"
+     url: "https://prairielearn.engr.illinois.edu"
     -
      title: "Quiz 2b"
      url: "https://prairielearn.engr.illinois.edu"
