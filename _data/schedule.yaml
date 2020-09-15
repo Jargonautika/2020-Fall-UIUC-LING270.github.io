@@ -148,6 +148,12 @@
   date: "2020-09-18 15:00 CDT"
   reading:
     -
+     title: "Video playlist (part 3)"
+     url:   "https://www.youtube.com/playlist?list=PLydysiDoFy5Xd8guBbA5Pa5W0IxY-ixAx"
+     length:
+       value: "68"
+       unit:  "minutes"
+    -
      title: "An Animated History of Writing"
      url:   "https://www.youtube.com/playlist?list=PLc4s09N3L2h3HtaAYVqOVKGt2h6wRasw2"
      length:
