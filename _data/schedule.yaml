@@ -187,9 +187,16 @@
   title: "Decipherment"
   reading:
     -
-     title: "Video playlist"
+     title: "Video: Cracking the Maya Code"
+     url:   "https://youtu.be/Qrbsz-7gns8"
      length:
-       value: "210"
+       value: "53"
+       unit: "minutes"
+    -
+     title: "Video: Deciphering the Maya Script"
+     url:   "https://youtu.be/dqzScCfV274?t=300"
+     length:
+       value: "120"
        unit: "minutes"
     -
      author: Sproat
