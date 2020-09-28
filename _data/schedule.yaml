@@ -241,10 +241,13 @@
        value: "59"
        unit: "minutes"
     -
-     title: "Reading log 4"
-    -
      title: "Quiz 4"
      url: "https://prairielearn.engr.illinois.edu"
+-
+  date: "2020-10-09 23:59 CDT"
+  reading:
+    -
+     title: "Reading log 4"
 -
   date: "2020-10-12 23:59 CDT"
   reading:
