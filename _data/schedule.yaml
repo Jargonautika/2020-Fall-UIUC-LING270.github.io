@@ -249,9 +249,6 @@
     -
      title: "Reading log 4"
      url: "https://prairielearn.engr.illinois.edu"
--
-  date: "2020-10-20 23:59 CDT"
-  reading:
     -
      title: "Homework 2"
      url: "https://compass2g.illinois.edu"
@@ -287,6 +284,7 @@
   reading:
     -
      title: "Mid-term Exam"
+     url: "https://prairielearn.engr.illinois.edu"
      length:
         value: "60"
         unit: "minutes"
