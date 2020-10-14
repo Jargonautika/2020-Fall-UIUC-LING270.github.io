@@ -86,7 +86,7 @@
      author: Sproat
      title: "Chapter 1"
      pages: "1‑8"
-     length: 
+     length:
        value: 8
        unit: "pages"
     -
@@ -109,7 +109,7 @@
      author: Sproat
      title: "Chapter 2"
      pages: "9‑29"
-     length: 
+     length:
        value: 21
        unit: "pages"
     -
@@ -140,7 +140,7 @@
      author: Sproat
      title: "Chapter 3 - 3.2"
      pages: "30-52"
-     length: 
+     length:
        value: 21
        unit: "pages"
 -
@@ -163,7 +163,7 @@
      author: Sproat
      title: "Chapter 3.3 - 3.5"
      pages: "52-76"
-     length: 
+     length:
        value: 25
        unit: "pages"
     -
@@ -202,7 +202,7 @@
      author: Sproat
      title: "Chapter 4"
      pages: "77-112"
-     length: 
+     length:
        value: 36
        unit: "pages"
     -
@@ -244,23 +244,26 @@
      title: "Quiz 4"
      url: "https://prairielearn.engr.illinois.edu"
 -
-  date: "2020-10-09 23:59 CDT"
+  date: "2020-10-20 23:59 CDT"
   reading:
     -
      title: "Reading log 4"
+     url: "https://prairielearn.engr.illinois.edu"
 -
-  date: "2020-10-12 23:59 CDT"
+  date: "2020-10-20 23:59 CDT"
   reading:
     -
      title: "Homework 2"
+     url: "https://compass2g.illinois.edu"
 -
   module: "5"
   week: "7-8"
-  date: "2020-10-14 23:59 CDT"
+  date: "2020-10-20 23:59 CDT"
   title: "Writing, Literacy, & Society"
   reading:
     -
      title: "Video playlist"
+     url: https://www.youtube.com/watch?v=ScBnE5DEdBA&list=PLrFhPxATm4HwzRUYb5EhHV10IaBEIOtLU
      length:
        value: "180"
        unit: "minutes"
@@ -268,18 +271,23 @@
      author: Sproat
      title: "Chapter 5"
      pages: "113-141"
-     length: 
+     length:
        value: 29
        unit: "pages"
     -
      title: "Reading log 5"
+     url: "https://prairielearn.engr.illinois.edu"
     -
      title: "Quiz 5"
+     url: "https://prairielearn.engr.illinois.edu"
 -
-  date: "2020-10-19 23:59 CDT"
+  date: "2020-10-21 19:00 CDT"
   module: "1-5"
   week: "9"
   reading:
+  length:
+         value: "60"
+         unit: "minutes"
     -
      title: "Mid-term Exam"
 -
@@ -287,20 +295,20 @@
   week: "9-10"
   date: "2020-10-27 23:59 CDT"
   title: "Artificial Intelligence"
-  reading:   
+  reading:
     -
      author: Turing
      title: "Computing Machinery and Intelligence"
      url: "http://mind.oxfordjournals.org/content/LIX/236/433"
      pages: "433-460"
-     length: 
+     length:
        value: 28
        unit: "pages"
     -
      title: "AI movie:<ul><li>Bicentennial Man, or</li><li>Ex Machina, or</li><li>Her</li></ul>"
      length:
        value: "120"
-       unit: "minutes"  
+       unit: "minutes"
     -
      title: "Video playlist"
      length:
@@ -331,7 +339,7 @@
      author: Sproat
      title: "Chapter 6"
      pages: "142-187"
-     length: 
+     length:
        value: 46
        unit: "pages"
     -
@@ -353,7 +361,7 @@
      author: Sproat
      title: "Chapter 7"
      pages: "188-215"
-     length: 
+     length:
        value: 28
        unit: "pages"
     -
@@ -373,7 +381,7 @@
      author: Sproat
      title: "Chapter 8"
      pages: "216-241"
-     length: 
+     length:
        value: 26
        unit: "pages"
     -
@@ -403,7 +411,7 @@
      author: Sproat
      title: "Chapter 9"
      pages: "242-255"
-     length: 
+     length:
        value: 14
        unit: "pages"
     -
@@ -419,7 +427,7 @@
      author: Sproat
      title: "Chapter 10"
      pages: "256-258"
-     length: 
+     length:
        value: 3
        unit: "pages"
     -
