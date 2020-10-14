@@ -285,11 +285,11 @@
   module: "1-5"
   week: "9"
   reading:
-  length:
-         value: "60"
-         unit: "minutes"
     -
      title: "Mid-term Exam"
+     length:
+        value: "60"
+        unit: "minutes"
 -
   module: "6"
   week: "9-10"
