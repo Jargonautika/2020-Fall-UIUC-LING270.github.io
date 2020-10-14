@@ -15,8 +15,9 @@ This course deals with the interrelated nature of language, technology, and soci
 * [Hayley Park](https://linguistics.illinois.edu/directory/profile/hpark129)
 
 #### Office Hours
-* Office hours will be held [via Zoom](https://illinois.zoom.us); times will be announced near the end of the first week of class
-
+* Office hours will be held [via Zoom](https://illinois.zoom.us):
+  * [Brennan Dell: 11am-12pm, Tuesdays](https://illinois.zoom.us/j/91075572165?pwd=TVcyaHdKRVA1R1RaeWpLUkNKZnVFZz09)
+  * [Hayley Park: 11am-12pm, Fridays](https://illinois.zoom.us/j/6613453047?pwd=aVR6cmVtNWQzMGhiUnpydmJJU1R0Zz09)
 
 #### Time and place
 
@@ -48,9 +49,9 @@ Quizzes, logs, and exams will be hosted on [PrairieLearn](https://prairielearn.e
 
 ## Course Objectives
 
-The main goal of this course is to excite an interest for and passion in language technologies in the attentive student. 
+The main goal of this course is to excite an interest for and passion in language technologies in the attentive student.
 
-While many of us know a variety of things about some aspects of language technologies like Siri or Alexa, this course should expound upon what you already know and garner a greater appreciation for the amazing resources available to this generation. 
+While many of us know a variety of things about some aspects of language technologies like Siri or Alexa, this course should expound upon what you already know and garner a greater appreciation for the amazing resources available to this generation.
 
 By the end of this course, you will be able to:
 * Logically discuss the origins of the world's various writing systems
@@ -82,7 +83,7 @@ Interested students are encouraged to enrich the content from the required readi
 
 ## Course Organization
 
-This course is organized into 9 content modules. 
+This course is organized into 9 content modules.
 
 #### Module organization
 
@@ -111,7 +112,7 @@ Each module will include:
 
 #### Academic Integrity
 
-This course follows the [University of Illinois Student Code regarding Academic Integrity](https://studentcode.illinois.edu/article1/part4/1-401). The College of Liberal Arts and Sciences also has [an excellent web page on the topic](http://www.las.illinois.edu/students/integrity). You are required to thoroughly read these resources no later than the Wednesday of the first week of class, and to thoroughly understand your responsibilities with regard to Academic Integrity. 
+This course follows the [University of Illinois Student Code regarding Academic Integrity](https://studentcode.illinois.edu/article1/part4/1-401). The College of Liberal Arts and Sciences also has [an excellent web page on the topic](http://www.las.illinois.edu/students/integrity). You are required to thoroughly read these resources no later than the Wednesday of the first week of class, and to thoroughly understand your responsibilities with regard to Academic Integrity.
 
 All work submitted for this class must be solely your own. Violations of Academic Integrity include, but are not limited to, copying, cheating, and unapproved collaboration. Violations will not be tolerated and can result in a failing grade. Ignorance is not an excuse.
 
@@ -164,7 +165,7 @@ Grades will be assessed on a 10-point fixed letter grade system with no rounding
 
 Assignment submissions will be penalized by 10 percentage points each day past the deadline for four days past the deadline. Assignments submitted five or more days past the deadline will not be given credit. If there is an unforeseeable emergency which prevents you from submitting an assignment on time, please contact the instructor as soon as you can.
 
-For some or all homework assignments, a solution may be presented to the class after the original homework deadline. Under no circumstances will work be accepted after a solution has been presented to the class. 
+For some or all homework assignments, a solution may be presented to the class after the original homework deadline. Under no circumstances will work be accepted after a solution has been presented to the class.
 
 
 #### Readings and videos
