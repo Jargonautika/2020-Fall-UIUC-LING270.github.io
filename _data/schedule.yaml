@@ -309,6 +309,7 @@
        unit: "minutes"
     -
      title: "Video playlist"
+     url: "https://www.youtube.com/watch?v=wMbE5g9Q6pE&list=PLrFhPxATm4HwhorDU2a2ZU_WuaxBhwnRN"
      length:
        value: "90"
        unit: "minutes"
