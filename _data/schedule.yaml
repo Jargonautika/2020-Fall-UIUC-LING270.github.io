@@ -315,8 +315,10 @@
        unit: "minutes"
     -
      title: "Reading log 6"
+     url: "https://prairielearn.engr.illinois.edu"
     -
      title: "Quiz 6"
+     url: "https://prairielearn.engr.illinois.edu"
 -
   week: "10"
   date: "2020-10-30 23:59 CDT"
