@@ -321,14 +321,15 @@
      url: "https://prairielearn.engr.illinois.edu"
 -
   week: "10"
-  date: "2020-10-30 23:59 CDT"
+  date: "2020-11-10 23:59 CDT"
   reading:
     -
      title: "Homework 3"
+     url: "https://compass2g.illinois.edu"
 -
   module: "7"
-  week: "10-11"
-  date: "2020-11-06 23:59 CST"
+  week: "11-12"
+  date: "2020-11-13 23:59 CST"
   title: "Precursors to Language Computing"
   reading:
     -
@@ -345,12 +346,14 @@
        unit: "pages"
     -
      title: "Reading log 7"
+     url: "https://prairielearn.engr.illinois.edu"
     -
      title: "Quiz 7"
+     url: "https://prairielearn.engr.illinois.edu"
 -
   module: "8"
-  week: "12"
-  date: "2020-11-13 23:59 CST"
+  week: "13"
+  date: "2020-11-20 23:59 CST"
   title: "Modern Language Technology"
   reading:
     -
@@ -370,8 +373,8 @@
     -
      title: "Quiz 8a"
 -
-  week: "13"
-  date: "2020-11-20 23:59 CST"
+  week: "14"
+  date: "2020-11-27 23:59 CST"
   reading:
     -
      title: "Video playlist"
