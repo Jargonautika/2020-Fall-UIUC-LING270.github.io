@@ -375,8 +375,10 @@
      
 -
   week: "14"
-  module: ""
-  title: "<i>Thanksgiving Break</i>"
+  date: ""
+  reading:
+    -
+     title: "<i>Thanksgiving Break</i>"
 -
   week: "15"
   date: "2020-12-04 23:59 CST"
