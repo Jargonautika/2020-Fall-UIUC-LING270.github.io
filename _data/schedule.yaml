@@ -301,9 +301,10 @@
   title: "Modern Language Technology"
   reading:
     -
-     title: "Video playlist"
+     title: "Video playlist: Modern Speech Technology"
+     url: "https://www.youtube.com/playlist?list=PLydysiDoFy5UPeSag8yC-jvVTK3q0k4JW"
      length:
-       value: "180"
+       value: "135"
        unit: "minutes"
     -
      author: Sproat
