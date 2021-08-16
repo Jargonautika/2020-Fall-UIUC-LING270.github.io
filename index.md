@@ -16,7 +16,7 @@ This course deals with the interrelated nature of language, technology, and soci
 * [Chase Adams](https://linguistics.illinois.edu/directory/profile/chasea2)
 
 #### Office Hours
-* Office hours will be held by appointment. 
+* Office hours will be held by appointment either in-person or via Zoom.
 
 ## Course Objectives
 
@@ -90,9 +90,7 @@ Do not hesitate to ask the instructor(s) if you are ever in doubt about what con
 
 #### Communications
 
-Course announcements, assignments, and due dates will all be communicated to students as announcements on the [the course forum on Campuswire](https://campuswire.com/c/G954C73B2), which should be the **primary mechanism for communication** in this course. Students may post questions privately so that only the instructor can see the question. Other questions may be viewed by classmates, so that classmates can provide a peer response in addition to that provided by the instructor and TAs. Questions may also be asked anonymously, so that neither the instructor nor classmates will see the poster's name.
-
-Office hours and one-on-one meetings with students will take place [over Zoom](https://illinois.zoom.us).
+Course announcements, assignments, and due dates will all be communicated to students as announcements on the [the course forum on Campuswire](https://campuswire.com/c/G1DA28EEF), which should be the **primary mechanism for communication** in this course. Students may post questions privately so that only the instructor can see the question. Other questions may be viewed by classmates, so that classmates can provide a peer response in addition to that provided by the instructor and TAs. Questions may also be asked anonymously, so that neither the instructor nor classmates will see the poster's name.
 
 
 #### Grading
@@ -141,7 +139,7 @@ Students are expected to regularly review the schedule of assigned readings and 
 
 Students are expected to and required to complete all assigned readings and video lectures prior to the class for which they are assigned.
 
-Students are expected to read and participate in Q&As and class discussions on the [the course forum on Campuswire](https://campuswire.com/p/G954C73B2)
+Students are expected to read and participate in Q&As and class discussions on the [the course forum on Campuswire](https://campuswire.com/c/G1DA28EEF)
 
 #### Learning Goals & Outcomes
 
@@ -154,7 +152,7 @@ Students who do so are expected to attain the learning goals and outcomes.
 To obtain disability-related academic adjustments and/or auxiliary aids, students with disabilities must contact the course instructor and the Disability Resources and Educational Services (DRES) as soon as possible. To contact DRES, you may visit 1207 S. Oak St., Champaign, call +1-217-333-4603, e-mail [disability@illinois.edu](mailto:disability@illinois.edu) or go to the [DRES website](https://www.disability.illinois.edu).
 
 If specific accommodations will be requested for this course, the student is asked to inform the course instructor as soon as possible, ideally within the first week of class or as soon as a DRES letter has been prepared, by following these steps:
-* Post a private message addressed to both the instructor and the TA on [the course forum on Campuswire](https://campuswire.com/p/G954C73B2)
+* Post a private message addressed to both the instructor and the TA on [the course forum on Campuswire](https://campuswire.com/c/G1DA28EEF)
 * Use the subject heading **DRES letter**
 * Use the **dres** topic tag
 * In the body of the post, the student should attach a PDF of their DRES letter
