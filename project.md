@@ -36,7 +36,7 @@ The purpose of this component of the assignment is to get you started on your pr
 For the proposal, you will write a short paper (~1 page single spaced) discussing your topic of interest. 
 While grading your papers, I will advise you as to how you should continue with your topic; i.e. whether you should broaden or narrow the scope of the project.
 In your paper, cite two of the sources you plan to use for the final paper, and briefly discuss what these sources say about your topic.
-The proposal portion of the project will be due Tuesday, March 3rd at 11:59 PM on Moodle.
+The proposal portion of the project will be due Tuesday, September 27th at 11:59 PM by email.
 
 
 ## Project Report (18% of course grade)
@@ -50,4 +50,4 @@ You should include a bibliography of the sources you use in the paper.
 I will not require any format for the bibliography (such as MLA or APA), 
 so long as I can easily identify the sources that you used, and access them myself if need be.
 
-The final paper will be due on Monday, May 11th at 11:59 PM on Moodle.
+The final paper will be due on Monday, December 13th at 11:59 PM by email.
